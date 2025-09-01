@@ -9,7 +9,8 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="IPAL Klinik | Konsultan & Pembuatan" />
   <meta property="og:description" content="Solusi IPAL klinik lengkap: desain, pembangunan, perizinan, dan perawatan. Konsultasi gratis. WA 0895 3446 61346." />
-  <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRVjuFmZzUQmzmio4lC9BZGS7KL3H_AAKcQ45D9ffPV6r1LsQFSyJhUJ1P3K36l4Zu4zS93jOjiXBp6DVarekBfNLWdDCQUiHsBwWXTtetp7DLphQK_SSpqyggDi0UmaMghehy2W_pu1Jbwy0c_ZI83rrdB04vqIUY34wY4t0Q478OgH4KQi3My6vHml3H/w640-h376/Red%20Black%20Creative%20Modern%20Business%20Card.png" />
+  <meta property="og:image" content="	https://blogger.googleusercontent.com/img/b/R29vZ2…20Black%20Creative%20Modern%20Business%20Card.png
+" />
   <meta property="og:url" content="https://jasaperbaikanipalklinikipalpabrik.blogspot.com" />
   <meta name="twitter:card" content="summary_large_image" />
   <!-- Tailwind CSS via CDN -->
@@ -139,7 +140,7 @@
           </ul>
         </div>
         <div class="rounded-2xl bg-emerald-50 p-6 ring-1 ring-emerald-100">
-          <h3 class="font-semibold">Soft Selling</h3>
+          <h3 class="font-semibold">Penjualan</h3>
           <p class="mt-2 text-sm">Konsultasi ramah & transparan. Fokus kami pada solusi efektif, bukan sekadar menjual alat.</p>
           <p class="mt-2 text-sm">Hubungi <strong>WA 0895 3446 61346</strong> atau klik tombol di bawah.</p>
           <a href="https://wa.me/62895344661346" class="mt-4 inline-flex items-center justify-center rounded-xl bg-emerald-600 px-4 py-3 font-semibold text-white hover:bg-emerald-700">Chat Sekarang</a>
